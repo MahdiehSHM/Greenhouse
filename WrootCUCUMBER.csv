@@ -1,0 +1,49 @@
+Fungi ,Salinity,Drought ,Value,,,
+Neocamarosporium chichastianum,Drought1,salinity1,59.72,59.21,61.2,58.75
+Neocamarosporium chichastianum,Drought1,salinity2,57.30333333,57.12,58.12,56.67
+Neocamarosporium chichastianum,Drought1,salinity3,53.68333333,53.39,55.82,51.84
+Neocamarosporium chichastianum,Drought2,salinity1,58.88333333,58.93,59.9,57.82
+Neocamarosporium chichastianum,Drought2,salinity2,56.32333333,56.2,57.98,54.79
+Neocamarosporium chichastianum,Drought2,salinity3,52.3,52.08,53.57,51.25
+Neocamarosporium chichastianum,Drought3,salinity1,53.11,53.04,55.1,51.19
+Neocamarosporium chichastianum,Drought3,salinity2,50.17,49.79,52.34,48.38
+Neocamarosporium chichastianum,Drought3,salinity3,46.13,46.85,47.25,44.29
+Neocamarosporium chichastianum,Drought4,salinity1,48.41666667,48.41,50.87,45.97
+Neocamarosporium chichastianum,Drought4,salinity2,45.27,45.11,47.98,42.72
+Neocamarosporium chichastianum,Drought4,salinity3,40.58,40.25,42.07,39.42
+Neocamarosporium goegapense,Drought1,salinity1,57.84666667,57.21,60.12,56.21
+Neocamarosporium goegapense,Drought1,salinity2,54.44666667,52.3,55.21,55.83
+Neocamarosporium goegapense,Drought1,salinity3,50.99,50.17,52.99,49.81
+Neocamarosporium goegapense,Drought2,salinity1,56.94333333,56.1,59.12,55.61
+Neocamarosporium goegapense,Drought2,salinity2,53.72666667,53.49,55.68,52.01
+Neocamarosporium goegapense,Drought2,salinity3,49.36333333,49.23,50.8,48.06
+Neocamarosporium goegapense,Drought3,salinity1,51.28333333,51.05,52.24,50.56
+Neocamarosporium goegapense,Drought3,salinity2,47.25333333,47.99,48.84,44.93
+Neocamarosporium goegapense,Drought3,salinity3,43.65666667,43.22,45.94,41.81
+Neocamarosporium goegapense,Drought4,salinity1,46.48666667,46.21,48.51,44.74
+Neocamarosporium goegapense,Drought4,salinity2,42.94666667,42.96,43.62,42.26
+Neocamarosporium goegapense,Drought4,salinity3,38.53,38.33,40.12,37.14
+Periconia macrospinosa,Drought1,salinity1,50.54333333,50.62,53.99,47.02
+Periconia macrospinosa,Drought1,salinity2,45.09,45.32,45,44.95
+Periconia macrospinosa,Drought1,salinity3,38.48666667,38.98,39.68,36.8
+Periconia macrospinosa,Drought2,salinity1,47.66,47.23,49,46.75
+Periconia macrospinosa,Drought2,salinity2,42.61666667,42.58,44.17,41.1
+Periconia macrospinosa,Drought2,salinity3,35.04333333,34.16,37.04,33.93
+Periconia macrospinosa,Drought3,salinity1,43.95333333,43.11,45.91,42.84
+Periconia macrospinosa,Drought3,salinity2,38.61,38.04,40.29,37.5
+Periconia macrospinosa,Drought3,salinity3,31.75666667,31.57,33.85,29.85
+Periconia macrospinosa,Drought4,salinity1,38.74,38,40.15,38.07
+Periconia macrospinosa,Drought4,salinity2,33.55666667,33.36,34.21,33.1
+Periconia macrospinosa,Drought4,salinity3,26.35666667,26.14,27.5,25.43
+Control,Drought1,salinity1,43.04666667,44.39,45.74,39.01
+Control,Drought1,salinity2,37.41666667,36.8,39.36,36.09
+Control,Drought1,salinity3,31.51333333,30,32.08,32.46
+Control,Drought2,salinity1,38.46333333,38.94,40.11,36.34
+Control,Drought2,salinity2,32.29333333,31.11,34.95,30.82
+Control,Drought2,salinity3,26.37333333,26.2,27.57,25.35
+Control,Drought3,salinity1,31.21333333,31.23,33.31,29.1
+Control,Drought3,salinity2,24.12666667,24.1,24.99,23.29
+Control,Drought3,salinity3,18.58666667,18.19,20.57,17
+Control,Drought4,salinity1,25.80666667,25.1,27.68,24.64
+Control,Drought4,salinity2,19.87333333,19.01,21.25,19.36
+Control,Drought4,salinity3,15.32,15.01,17.86,13.09

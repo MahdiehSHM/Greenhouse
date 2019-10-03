@@ -1,0 +1,49 @@
+Fungi ,Salinity,Drought ,Value,,,
+Neocamarosporium chichastianum,Drought1,salinity1,9.831356933,9.654875208,10.32266667,9.516528926
+Neocamarosporium chichastianum,Drought1,salinity2,9.437759948,9.314076539,9.8196,9.179603306
+Neocamarosporium chichastianum,Drought1,salinity3,8.84900446,8.705856905,9.443933333,8.39722314
+Neocamarosporium chichastianum,Drought2,salinity1,9.6951452,9.60921797,10.11033333,9.365884298
+Neocamarosporium chichastianum,Drought2,salinity2,9.278622538,9.1640599,9.796733333,8.87507438
+Neocamarosporium chichastianum,Drought2,salinity3,8.623444161,8.492246256,9.076433333,8.301652893
+Neocamarosporium chichastianum,Drought3,salinity1,8.755684192,8.648785358,9.326333333,8.291933884
+Neocamarosporium chichastianum,Drought3,salinity2,8.277042979,8.118835275,8.875533333,7.836760331
+Neocamarosporium chichastianum,Drought3,salinity3,7.619282959,7.639434276,8.044166667,7.174247934
+Neocamarosporium chichastianum,Drought4,salinity1,7.991874605,7.893810316,8.635433333,7.446380165
+Neocamarosporium chichastianum,Drought4,salinity2,7.479680346,7.355707155,8.1634,6.919933884
+Neocamarosporium chichastianum,Drought4,salinity3,6.715572128,6.563227953,7.1981,6.38538843
+Neocamarosporium goegapense,Drought1,salinity1,9.623914476,9.423943428,10.2498,9.198
+Neocamarosporium goegapense,Drought1,salinity2,9.063536538,8.615141431,9.43965,9.135818182
+Neocamarosporium goegapense,Drought1,salinity3,8.496117826,8.264276206,9.07335,8.150727273
+Neocamarosporium goegapense,Drought2,salinity1,9.475238784,9.24109817,10.0848,9.099818182
+Neocamarosporium goegapense,Drought2,salinity2,8.946363999,8.811164725,9.5172,8.510727273
+Neocamarosporium goegapense,Drought2,salinity3,8.228599304,8.109434276,8.712,7.864363636
+Neocamarosporium goegapense,Drought3,salinity1,8.544096385,8.409234609,8.9496,8.273454545
+Neocamarosporium goegapense,Drought3,salinity2,7.881985509,7.905174709,8.3886,7.352181818
+Neocamarosporium goegapense,Drought3,salinity3,7.290390213,7.119434276,7.9101,6.841636364
+Neocamarosporium goegapense,Drought4,salinity1,7.755734768,7.611963394,8.33415,7.321090909
+Neocamarosporium goegapense,Drought4,salinity2,7.173059462,7.076605657,7.5273,6.915272727
+Neocamarosporium goegapense,Drought4,salinity3,6.447060445,6.313926789,6.9498,6.077454545
+Periconia macrospinosa,Drought1,salinity1,8.508732148,8.422628952,9.331666667,7.771900826
+Periconia macrospinosa,Drought1,salinity2,7.601283597,7.540765391,7.833333333,7.429752066
+Periconia macrospinosa,Drought1,salinity3,6.505056067,6.485856905,6.946666667,6.082644628
+Periconia macrospinosa,Drought2,salinity1,8.028613926,7.858569052,8.5,7.727272727
+Periconia macrospinosa,Drought2,salinity2,7.191082333,7.084858569,7.695,6.79338843
+Periconia macrospinosa,Drought2,salinity3,5.932930454,5.683860233,6.506666667,5.608264463
+Periconia macrospinosa,Drought3,salinity1,7.41301222,7.173044925,7.985,7.080991736
+Periconia macrospinosa,Drought3,salinity2,6.525377119,6.329450915,7.048333333,6.198347107
+Periconia macrospinosa,Drought3,salinity3,5.38726537,5.252911814,5.975,4.933884298
+Periconia macrospinosa,Drought4,salinity1,6.546785775,6.322795341,7.025,6.292561983
+Periconia macrospinosa,Drought4,salinity2,5.685607711,5.550748752,6.035,5.47107438
+Periconia macrospinosa,Drought4,salinity3,4.489796696,4.349417637,4.916666667,4.203305785
+Control,Drought1,salinity1,7.626718346,7.755324459,8.3545,6.770330579
+Control,Drought1,salinity2,6.643612748,6.429284526,7.238,6.263553719
+Control,Drought1,salinity3,5.612939426,5.241264559,5.964,5.633553719
+Control,Drought2,salinity1,6.826451182,6.803161398,7.36925,6.306942149
+Control,Drought2,salinity2,5.750122323,5.435191348,6.46625,5.34892562
+Control,Drought2,salinity3,4.717235942,4.577371048,5.17475,4.399586777
+Control,Drought3,salinity1,5.561939876,5.456156406,6.17925,5.050413223
+Control,Drought3,salinity2,4.325266215,4.210482529,4.72325,4.042066116
+Control,Drought3,salinity3,3.359372211,3.177953411,3.94975,2.950413223
+Control,Drought4,salinity1,4.618518328,4.385191348,5.194,4.276363636
+Control,Drought4,salinity2,3.583321547,3.321214642,4.06875,3.36
+Control,Drought4,salinity3,2.789899183,2.622379368,3.4755,2.271818182

@@ -1,0 +1,145 @@
+R,Host,Fungi,Drought,Salinity,Treatment code,Lshoot,Wdshoot,Wshoot,Nleaf,Lroot,Wroot,Wdroot,S,Biomass,Tww
+NC-D1-S1-1,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity1,NCD1S1,280,38.46,242.7408,30,47,59.21,9.654875208,49.2,48.11487521,97.31487521
+NC-D1-S2-2,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity2,NCD1S2,272,36.7,231.336,28,46,57.12,9.314076539,47.8,46.01407654,93.81407654
+NC-D1-S3-3,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity3,NCD1S3,245,34.38,216.3024,25,46,53.39,8.705856905,43.1,43.08585691,86.18585691
+NC-D2-S1-4,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity1,NCD2S1,275,37.23,234.7704,26,47,58.93,9.60921797,48.4,46.83921797,95.23921797
+NC-D2-S2-5,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity2,NCD2S2,253,34.4,216.432,26,45,56.2,9.1640599,45.9,43.5640599,89.4640599
+NC-D2-S3-6,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity3,NCD2S3,236,31.39,196.9272,24,45,52.08,8.492246256,41.6,39.88224626,81.48224626
+NC-D3-S1-7,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity1,NCD3S1,252,32.36,203.2128,24,46,53.04,8.648785358,43.7,41.00878536,84.70878536
+NC-D3-S2-8,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity2,NCD3S2,225,30.02,188.0496,23,45,49.79,8.118835275,41.3,38.13883528,79.43883528
+NC-D3-S3-9,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity3,NCD3S3,190,26.36,164.3328,18,46,46.85,7.639434276,37.1,33.99943428,71.09943428
+NC-D4-S1-10,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity1,NCD4S1,195,27.32,170.5536,18,43,48.41,7.893810316,39.01,35.21381032,74.22381032
+NC-D4-S2-11,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity2,NCD4S2,170,25.07,155.9736,15,42,45.11,7.355707155,37.3,32.42570716,69.72570716
+NC-D4-S3-12,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity3,NCD4S3,153,21.8,134.784,15,42,40.25,6.563227953,33.5,28.36322795,61.86322795
+NC-D1-S1-13,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity1,NCD1S1,283,41.3,267.624,32,49,61.2,10.32266667,49,51.62266667,100.6226667
+NC-D1-S2-14,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity2,NCD1S2,280,38.46,249.2208,28,47,58.12,9.8196,47.8,48.2796,96.0796
+NC-D1-S3-15,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity3,NCD1S3,256,37.84,245.2032,26,46,55.82,9.443933333,45.5,47.28393333,92.78393333
+NC-D2-S1-16,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity1,NCD2S1,282,39.26,254.4048,27,48,59.9,10.11033333,48.8,49.37033333,98.17033333
+NC-D2-S2-17,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity2,NCD2S2,267,36.99,239.6952,28,45,57.98,9.796733333,46.1,46.78673333,92.88673333
+NC-D2-S3-18,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity3,NCD2S3,241,32.89,213.1272,25,46,53.57,9.076433333,43.2,41.96643333,85.16643333
+NC-D3-S1-19,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity1,NCD3S1,260,33.09,214.4232,25,46,55.1,9.326333333,44.9,42.41633333,87.31633333
+NC-D3-S2-20,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity2,NCD3S2,247,31.05,201.204,24,46,52.34,8.875533333,43.2,39.92553333,83.12553333
+NC-D3-S3-21,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity3,NCD3S3,206,25.09,162.5832,19,46,47.25,8.044166667,38.2,33.13416667,71.33416667
+NC-D4-S1-22,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity1,NCD4S1,185,27.18,176.1264,18,42,50.87,8.635433333,40.1,35.81543333,75.91543333
+NC-D4-S2-23,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity2,NCD4S2,177,25.94,168.0912,16,42,47.98,8.1634,38.1,34.1034,72.2034
+NC-D4-S3-24,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity3,NCD4S3,160,22.87,148.1976,16,42,42.07,7.1981,34.4,30.0681,64.4681
+NC-D1-S1-25,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity1,NCD1S1,272,38.46,256.0954,28,47,58.75,9.516528926,49.7,47.97652893,97.67652893
+NC-D1-S2-26,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity2,NCD1S2,255,35.41,236.3009,26,46,56.67,9.179603306,45.6,44.58960331,90.18960331
+NC-D1-S3-27,Cucumis sativus,Neocamarosporium chichastianum,Drought1,salinity3,NCD1S3,227,33.81,225.9169,26,45,51.84,8.39722314,41.2,42.20722314,83.40722314
+NC-D2-S1-28,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity1,NCD2S1,263,35.71,238.2479,25,46,57.82,9.365884298,45.1,45.0758843,90.1758843
+NC-D2-S2-29,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity2,NCD2S2,234,33.96,226.8904,24,45,54.79,8.87507438,44.1,42.83507438,86.93507438
+NC-D2-S3-30,Cucumis sativus,Neocamarosporium chichastianum,Drought2,salinity3,NCD2S3,213,30.71,205.7979,23,45,51.25,8.301652893,39.4,39.01165289,78.41165289
+NC-D3-S1-31,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity1,NCD3S1,238,31.69,212.1581,23,46,51.19,8.291933884,40.9,39.98193388,80.88193388
+NC-D3-S2-32,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity2,NCD3S2,222,29.01,194.7649,23,16,48.38,7.836760331,40,36.84676033,76.84676033
+NC-D3-S3-33,Cucumis sativus,Neocamarosporium chichastianum,Drought3,salinity3,NCD3S3,186,25.67,173.0883,17,46,44.29,7.174247934,36.4,32.84424793,69.24424793
+NC-D4-S1-34,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity1,NCD4S1,155,29.03,194.8947,17,43,45.97,7.446380165,37.9,36.47638017,74.37638017
+NC-D4-S2-35,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity2,NCD4S2,150,24.59,166.0791,14,43,42.72,6.919933884,36.1,31.50993388,67.60993388
+NC-D4-S3-36,Cucumis sativus,Neocamarosporium chichastianum,Drought4,salinity3,NCD4S3,143,21.24,144.3376,13,42,39.42,6.38538843,32,27.62538843,59.62538843
+NG-D1-S1-37,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity1,NGD1S1,268,38.33,248.7617,27,48,57.21,9.423943428,48.2,47.75394343,95.95394343
+NG-D1-S1-38,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity2,NGD1S2,265,36.71,238.2479,28,47,52.3,8.615141431,46.6,45.32514143,91.92514143
+NG-D1-S1-39,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity3,NGD1S3,245,33.82,219.4918,24,47,50.17,8.264276206,43,42.08427621,85.08427621
+NG-D1-S1-40,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity1,NGD2S1,261,37.12,240.9088,26,47,56.1,9.24109817,46.09,46.36109817,92.45109817
+NG-D1-S1-41,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity2,NGD2S2,247,35.14,228.0586,23,46,53.49,8.811164725,43.9,43.95116473,87.85116473
+NG-D1-S1-42,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity3,NGD2S3,236,31.42,203.9158,21,46,49.23,8.109434276,40.4,39.52943428,79.92943428
+NG-D1-S1-43,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity1,NGD3S1,243,32.18,208.8482,22,46,51.05,8.409234609,42.9,40.58923461,83.48923461
+NG-D1-S1-44,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity2,NGD3S2,207,30.12,195.4788,19,46,47.99,7.905174709,40.7,38.02517471,78.72517471
+NG-D1-S1-45,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity3,NGD3S3,190,25.81,167.5069,18,45,43.22,7.119434276,35.8,32.92943428,68.72943428
+NG-D1-S1-46,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity1,NGD4S1,192,26.8,173.932,16,43,46.21,7.611963394,38.4,34.41196339,72.81196339
+NG-D1-S1-47,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity2,NGD4S2,162,25.13,163.0937,16,43,42.96,7.076605657,35.9,32.20660566,68.10660566
+NG-D1-S1-48,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity3,NGD4S3,162,21.27,138.0423,14,42,38.33,6.313926789,30.2,27.58392679,57.78392679
+NG-D1-S1-49,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity1,NGD1S1,285,39.75,258.375,29,48,60.12,10.2498,49.9,49.9998,99.8998
+NG-D1-S1-50,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity2,NGD1S2,278,37.42,243.23,29,47,55.21,9.43965,47.1,46.85965,93.95965
+NG-D1-S1-51,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity3,NGD1S3,253,34.09,221.585,26,47,52.99,9.07335,43.1,43.16335,86.26335
+NG-D1-S1-52,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity1,NGD2S1,270,38.42,249.73,27,47,59.12,10.0848,47.9,48.5048,96.4048
+NG-D1-S1-53,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity2,NGD2S2,255,36.95,240.175,24,47,55.68,9.5172,45.4,46.4672,91.8672
+NG-D1-S1-54,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity3,NGD2S3,244,32.74,212.81,22,46,50.8,8.712,41.4,41.452,82.852
+NG-D1-S1-55,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity1,NGD3S1,256,33.25,216.125,24,46,52.24,8.9496,43.2,42.1996,85.3996
+NG-D1-S1-56,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity2,NGD3S2,227,31.17,202.605,19,45,48.84,8.3886,41.9,39.5586,81.4586
+NG-D1-S1-57,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity3,NGD3S3,200,26.68,173.42,19,44,45.94,7.9101,36.4,34.5901,70.9901
+NG-D1-S1-58,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity1,NGD4S1,202,29.07,188.955,17,43,48.51,8.33415,40.5,37.40415,77.90415
+NG-D1-S1-59,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity2,NGD4S2,173,26.42,171.73,17,43,43.62,7.5273,35.7,33.9473,69.6473
+NG-D1-S1-60,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity3,NGD4S3,168,22.07,143.455,14,43,40.12,6.9498,30.9,29.0198,59.9198
+NG-D1-S1-61,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity1,NGD1S1,256,37.73,244.8677,27,48,56.21,9.198,46.3,46.928,93.228
+NG-D1-S1-62,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity2,NGD1S2,253,36.09,234.2241,26,47,55.83,9.135818182,44.8,45.22581818,90.02581818
+NG-D1-S1-63,Cucumis sativus,Neocamarosporium goegapense,Drought1,salinity3,NGD1S3,232,32.13,208.5237,22,47,49.81,8.150727273,41,40.28072727,81.28072727
+NG-D1-S1-64,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity1,NGD2S1,245,36.48,236.7552,25,47,55.61,9.099818182,45,45.57981818,90.57981818
+NG-D1-S1-65,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity2,NGD2S2,232,34.65,224.8785,21,46,52.01,8.510727273,43.8,43.16072727,86.96072727
+NG-D1-S1-66,Cucumis sativus,Neocamarosporium goegapense,Drought2,salinity3,NGD2S3,217,30.52,198.0748,20,45,48.06,7.864363636,38.5,38.38436364,76.88436364
+NG-D1-S1-67,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity1,NGD3S1,222,31.43,203.9807,20,45,50.56,8.273454545,40.2,39.70345455,79.90345455
+NG-D1-S1-68,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity2,NGD3S2,209,28.59,185.5491,19,45,44.93,7.352181818,38.1,35.94218182,74.04218182
+NG-D1-S1-69,Cucumis sativus,Neocamarosporium goegapense,Drought3,salinity3,NGD3S3,181,24.3,157.707,17,45,41.81,6.841636364,33.1,31.14163636,64.24163636
+NG-D1-S1-70,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity1,NGD4S1,178,28.07,182.1743,15,43,44.74,7.321090909,36.9,35.39109091,72.29109091
+NG-D1-S1-71,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity2,NGD4S2,160,25.49,165.4301,15,43,42.26,6.915272727,33.5,32.40527273,65.90527273
+NG-D1-S1-72,Cucumis sativus,Neocamarosporium goegapense,Drought4,salinity3,NGD4S3,155,20.81,135.0569,13,43,37.14,6.077454545,29.7,26.88745455,56.58745455
+PM-D1-S1-73,Cucumis sativus,Periconia macrospinosa,Drought1,salinity1,PMD1S1,244,36.31,225.9169,27,52,50.62,8.422628952,47.1,44.73262895,91.83262895
+PM-D1-S1-74,Cucumis sativus,Periconia macrospinosa,Drought1,salinity2,PMD1S2,237,31.66,195.7384,22,52,45.32,7.540765391,43,39.20076539,82.20076539
+PM-D1-S1-75,Cucumis sativus,Periconia macrospinosa,Drought1,salinity3,PMD1S3,210,27.59,169.3241,22,50,38.98,6.485856905,39.6,34.07585691,73.67585691
+PM-D1-S1-76,Cucumis sativus,Periconia macrospinosa,Drought2,salinity1,PMD2S1,239,34.84,216.3766,24,51,47.23,7.858569052,45.4,42.69856905,88.09856905
+PM-D1-S1-77,Cucumis sativus,Periconia macrospinosa,Drought2,salinity2,PMD2S2,225,30.17,186.0683,21,49,42.58,7.084858569,40.6,37.25485857,77.85485857
+PM-D1-S1-78,Cucumis sativus,Periconia macrospinosa,Drought2,salinity3,PMD2S3,210,24.98,152.3852,19,49,34.16,5.683860233,36,30.66386023,66.66386023
+PM-D1-S1-79,Cucumis sativus,Periconia macrospinosa,Drought3,salinity1,PMD3S1,207,28.44,174.8406,18,48,43.11,7.173044925,40.7,35.61304493,76.31304493
+PM-D1-S1-80,Cucumis sativus,Periconia macrospinosa,Drought3,salinity2,PMD3S2,185,24.97,152.3203,18,48,38.04,6.329450915,36.9,31.29945092,68.19945092
+PM-D1-S1-81,Cucumis sativus,Periconia macrospinosa,Drought3,salinity3,PMD3S3,167,19.09,114.1591,16,46,31.57,5.252911814,31.5,24.34291181,55.84291181
+PM-D1-S1-82,Cucumis sativus,Periconia macrospinosa,Drought4,salinity1,PMD4S1,166,22.94,139.1456,15,46,38,6.322795341,35.1,29.26279534,64.36279534
+PM-D1-S1-83,Cucumis sativus,Periconia macrospinosa,Drought4,salinity2,PMD4S2,132,18.5,110.33,14,46,33.36,5.550748752,31.7,24.05074875,55.75074875
+PM-D1-S1-84,Cucumis sativus,Periconia macrospinosa,Drought4,salinity3,PMD4S3,126,13.02,74.7648,13,45,26.14,4.349417637,26.4,17.36941764,43.76941764
+PM-D1-S1-85,Cucumis sativus,Periconia macrospinosa,Drought1,salinity1,PMD1S1,285,38.1,243.648,30,54,53.99,9.331666667,47.2,47.43166667,94.63166667
+PM-D1-S1-86,Cucumis sativus,Periconia macrospinosa,Drought1,salinity2,PMD1S2,251,34.91,222.9768,26,53,47,7.833333333,44.1,42.74333333,86.84333333
+PM-D1-S1-87,Cucumis sativus,Periconia macrospinosa,Drought1,salinity3,PMD1S3,233,29.89,190.4472,23,53,39.68,6.946666667,39.9,36.83666667,76.73666667
+PM-D1-S1-88,Cucumis sativus,Periconia macrospinosa,Drought2,salinity1,PMD2S1,247,36.08,230.5584,23,51,49,8.5,46.3,44.58,90.88
+PM-D1-S1-89,Cucumis sativus,Periconia macrospinosa,Drought2,salinity2,PMD2S2,241,31.34,199.8432,21,50,44.17,7.695,42.5,39.035,81.535
+PM-D1-S1-90,Cucumis sativus,Periconia macrospinosa,Drought2,salinity3,PMD2S3,215,29.07,185.1336,21,49,37.04,6.506666667,37.9,35.57666667,73.47666667
+PM-D1-S1-91,Cucumis sativus,Periconia macrospinosa,Drought3,salinity1,PMD3S1,210,29.68,189.0864,19,48,45.91,7.985,40.8,37.665,78.465
+PM-D1-S1-92,Cucumis sativus,Periconia macrospinosa,Drought3,salinity2,PMD3S2,202,26.12,166.0176,19,49,40.29,7.048333333,37.7,33.16833333,70.86833333
+PM-D1-S1-93,Cucumis sativus,Periconia macrospinosa,Drought3,salinity3,PMD3S3,182,20.25,127.98,18,46,33.85,5.975,31.4,26.225,57.625
+PM-D1-S1-94,Cucumis sativus,Periconia macrospinosa,Drought4,salinity1,PMD4S1,180,23.74,150.5952,18,46,40.15,7.025,37,30.765,67.765
+PM-D1-S1-95,Cucumis sativus,Periconia macrospinosa,Drought4,salinity2,PMD4S2,153,18.9,119.232,16,45,34.21,6.035,32.2,24.935,57.135
+PM-D1-S1-96,Cucumis sativus,Periconia macrospinosa,Drought4,salinity3,PMD4S3,143,15.71,98.5608,15,43,27.5,4.916666667,26.9,20.62666667,47.52666667
+PM-D1-S1-97,Cucumis sativus,Periconia macrospinosa,Drought1,salinity1,PMD1S1,232,35.12,227.9288,26,50,47.02,7.771900826,47.2,42.89190083,90.09190083
+PM-D1-S1-98,Cucumis sativus,Periconia macrospinosa,Drought1,salinity2,PMD1S2,225,29.1,188.859,20,50,43.95,7.429752066,42.6,36.52975207,79.12975207
+PM-D1-S1-99,Cucumis sativus,Periconia macrospinosa,Drought1,salinity3,PMD1S3,191,26.47,171.7903,20,50,36.8,6.082644628,37.8,32.55264463,70.35264463
+PM-D1-S1-100,Cucumis sativus,Periconia macrospinosa,Drought2,salinity1,PMD2S1,228,33.4,216.766,21,49,46.75,7.727272727,43.1,41.12727273,84.22727273
+PM-D1-S1-101,Cucumis sativus,Periconia macrospinosa,Drought2,salinity2,PMD2S2,213,30.36,197.0364,19,48,41.1,6.79338843,38.1,37.15338843,75.25338843
+PM-D1-S1-102,Cucumis sativus,Periconia macrospinosa,Drought2,salinity3,PMD2S3,194,22.12,143.5588,17,49,33.93,5.608264463,34.2,27.72826446,61.92826446
+PM-D1-S1-103,Cucumis sativus,Periconia macrospinosa,Drought3,salinity1,PMD3S1,183,27.25,176.8525,17,48,42.84,7.080991736,38.6,34.33099174,72.93099174
+PM-D1-S1-104,Cucumis sativus,Periconia macrospinosa,Drought3,salinity2,PMD3S2,170,23.19,150.5031,17,48,37.5,6.198347107,35,29.38834711,64.38834711
+PM-D1-S1-105,Cucumis sativus,Periconia macrospinosa,Drought3,salinity3,PMD3S3,150,18.95,122.9855,17,46,29.85,4.933884298,29.9,23.8838843,53.7838843
+PM-D1-S1-106,Cucumis sativus,Periconia macrospinosa,Drought4,salinity1,PMD4S1,158,22.2,144.078,15,46,38.07,6.292561983,33.6,28.49256198,62.09256198
+PM-D1-S1-107,Cucumis sativus,Periconia macrospinosa,Drought4,salinity2,PMD4S2,120,17.83,115.7167,13,45,33.1,5.47107438,30.8,23.30107438,54.10107438
+PM-D1-S1-108,Cucumis sativus,Periconia macrospinosa,Drought4,salinity3,PMD4S3,112,12.29,79.7621,14,45,25.43,4.203305785,25.2,16.49330579,41.69330579
+CCO-D1-S1-109,Cucumis sativus,Control,Drought1,salinity1,COD1S1,206,29.06,195.0894,17,49,44.39,7.755324459,46.5,36.81532446,83.31532446
+CCO-D1-S2-110,Cucumis sativus,Control,Drought1,salinity2,COD1S2,178,24.62,166.2738,17,48,36.8,6.429284526,43.1,31.04928453,74.14928453
+CCO-D1-S3-111,Cucumis sativus,Control,Drought1,salinity3,COD1S3,142,19.08,130.3192,13,48,30,5.241264559,36.8,24.32126456,61.12126456
+CCO-D2-S1-112,Cucumis sativus,Control,Drought2,salinity1,COD2S1,176,25.02,168.8698,13,47,38.94,6.803161398,40.1,31.8231614,71.9231614
+CCO-D2-S2-113,Cucumis sativus,Control,Drought2,salinity2,COD2S2,164,20.71,140.8979,12,48,31.11,5.435191348,34.3,26.14519135,60.44519135
+CCO-D2-S3-114,Cucumis sativus,Control,Drought2,salinity3,COD2S3,133,15.52,107.2148,12,48,26.2,4.577371048,28.4,20.09737105,48.49737105
+CCO-D3-S1-115,Cucumis sativus,Control,Drought3,salinity1,COD3S1,146,20.15,137.2635,12,46,31.23,5.456156406,33.1,25.60615641,58.70615641
+CCO-D3-S2-116,Cucumis sativus,Control,Drought3,salinity2,COD3S2,108,15.61,107.7989,10,45,24.1,4.210482529,27.2,19.82048253,47.02048253
+CCO-D3-S3-117,Cucumis sativus,Control,Drought3,salinity3,COD3S3,85,9.06,65.2894,7,45,18.19,3.177953411,21.7,12.23795341,33.93795341
+CCO-D4-S1-118,Cucumis sativus,Control,Drought4,salinity1,COD4S1,85,14.85,102.8665,7,44,25.1,4.385191348,25.9,19.23519135,45.13519135
+CCO-D4-S2-119,Cucumis sativus,Control,Drought4,salinity2,COD4S2,70,10.01,71.4549,6,44,19.01,3.321214642,19.3,13.33121464,32.63121464
+CCO-D4-S3-120,Cucumis sativus,Control,Drought4,salinity3,COD4S3,67,5.1,39.589,6,42,15.01,2.622379368,14,7.722379368,21.72237937
+CCO-D1-S1-121,Cucumis sativus,Control,Drought1,salinity1,COD1S1,235,30.87,207.155,20,48,45.74,8.3545,48.1,39.2245,87.3245
+CCO-D1-S2-122,Cucumis sativus,Control,Drought1,salinity2,COD1S2,180,25.21,170.365,18,48,39.36,7.238,43.5,32.448,75.948
+CCO-D1-S3-123,Cucumis sativus,Control,Drought1,salinity3,COD1S3,146,21.11,143.715,14,48,32.08,5.964,37.6,27.074,64.674
+CCO-D2-S1-124,Cucumis sativus,Control,Drought2,salinity1,COD2S1,190,28.1,189.15,16,45,40.11,7.36925,40.9,35.46925,76.36925
+CCO-D2-S2-125,Cucumis sativus,Control,Drought2,salinity2,COD2S2,176,21.78,148.07,13,48,34.95,6.46625,35.2,28.24625,63.44625
+CCO-D2-S3-126,Cucumis sativus,Control,Drought2,salinity3,COD2S3,142,15.03,104.195,13,48,27.57,5.17475,29.7,20.20475,49.90475
+CCO-D3-S1-127,Cucumis sativus,Control,Drought3,salinity1,COD3S1,153,20.97,142.805,12,47,33.31,6.17925,34.8,27.14925,61.94925
+CCO-D3-S2-128,Cucumis sativus,Control,Drought3,salinity2,COD3S2,110,16.02,110.63,12,46,24.99,4.72325,28.5,20.74325,49.24325
+CCO-D3-S3-129,Cucumis sativus,Control,Drought3,salinity3,COD3S3,91,9.58,68.77,8,45,20.57,3.94975,22.5,13.52975,36.02975
+CCO-D4-S1-130,Cucumis sativus,Control,Drought4,salinity1,COD4S1,90,15.97,110.305,8,44,27.68,5.194,26.9,21.164,48.064
+CCO-D4-S2-131,Cucumis sativus,Control,Drought4,salinity2,COD4S2,78,10.77,76.505,6,44,21.25,4.06875,19.7,14.83875,34.53875
+CCO-D4-S3-132,Cucumis sativus,Control,Drought4,salinity3,COD4S3,78,7.06,52.39,6,43,17.86,3.4755,14.9,10.5355,25.4355
+CCO-D1-S1-133,Cucumis sativus,Control,Drought1,salinity1,COD1S1,185,31.61,212.615,17,49,39.01,6.770330579,44.9,38.38033058,83.28033058
+CCO-D1-S2-134,Cucumis sativus,Control,Drought1,salinity2,COD1S2,153,24.58,166.92,16,48,36.09,6.263553719,40.4,30.84355372,71.24355372
+CCO-D1-S3-135,Cucumis sativus,Control,Drought1,salinity3,COD1S3,132,19.26,132.34,12,48,32.46,5.633553719,35.5,24.89355372,60.39355372
+CCO-D2-S1-136,Cucumis sativus,Control,Drought2,salinity1,COD2S1,162,24.01,163.215,11,48,36.34,6.306942149,38.5,30.31694215,68.81694215
+CCO-D2-S2-137,Cucumis sativus,Control,Drought2,salinity2,COD2S2,140,19.41,133.315,11,48,30.82,5.34892562,33.4,24.75892562,58.15892562
+CCO-D2-S3-138,Cucumis sativus,Control,Drought2,salinity3,COD2S3,120,14.01,98.215,10,48,25.35,4.399586777,27.3,18.40958678,45.70958678
+CCO-D3-S1-139,Cucumis sativus,Control,Drought3,salinity1,COD3S1,125,19.69,135.135,9,46,29.1,5.050413223,31.2,24.74041322,55.94041322
+CCO-D3-S2-140,Cucumis sativus,Control,Drought3,salinity2,COD3S2,87,15.15,105.625,9,45,23.29,4.042066116,25.39,19.19206612,44.58206612
+CCO-D3-S3-141,Cucumis sativus,Control,Drought3,salinity3,COD3S3,70,8.56,62.79,8,45,17,2.950413223,20.9,11.51041322,32.41041322
+CCO-D4-S1-142,Cucumis sativus,Control,Drought4,salinity1,COD4S1,78,13.01,91.715,6,45,24.64,4.276363636,25.1,17.28636364,42.38636364
+CCO-D4-S2-143,Cucumis sativus,Control,Drought4,salinity2,COD4S2,55,8.4,61.75,6,44,19.36,3.36,18,11.76,29.76
+CCO-D4-S3-144,Cucumis sativus,Control,Drought4,salinity3,COD4S3,53,4.11,33.865,6,43,13.09,2.271818182,13,6.381818182,19.38181818

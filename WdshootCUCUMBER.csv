@@ -1,0 +1,49 @@
+Fungi ,Drought ,Salinity,Value
+Neocamarosporium chichastianum,Drought1,salinity1,39.4
+Neocamarosporium chichastianum,Drought1,salinity2,36.85
+Neocamarosporium chichastianum,Drought1,salinity3,35.34
+Neocamarosporium chichastianum,Drought2,salinity1,37.4
+Neocamarosporium chichastianum,Drought2,salinity2,35.11
+Neocamarosporium chichastianum,Drought2,salinity3,31.66
+Neocamarosporium chichastianum,Drought3,salinity1,32.38
+Neocamarosporium chichastianum,Drought3,salinity2,30.02
+Neocamarosporium chichastianum,Drought3,salinity3,25.7
+Neocamarosporium chichastianum,Drought4,salinity1,27.84
+Neocamarosporium chichastianum,Drought4,salinity2,25.2
+Neocamarosporium chichastianum,Drought4,salinity3,21.97
+Neocamarosporium goegapense,Drought1,salinity1,38.6
+Neocamarosporium goegapense,Drought1,salinity2,36.74
+Neocamarosporium goegapense,Drought1,salinity3,33.34
+Neocamarosporium goegapense,Drought2,salinity1,37.34
+Neocamarosporium goegapense,Drought2,salinity2,35.58
+Neocamarosporium goegapense,Drought2,salinity3,31.56
+Neocamarosporium goegapense,Drought3,salinity1,32.28
+Neocamarosporium goegapense,Drought3,salinity2,29.96
+Neocamarosporium goegapense,Drought3,salinity3,25.59
+Neocamarosporium goegapense,Drought4,salinity1,27.98
+Neocamarosporium goegapense,Drought4,salinity2,25.68
+Neocamarosporium goegapense,Drought4,salinity3,21.38
+Periconia macrospinosa,Drought1,salinity1,36.51
+Periconia macrospinosa,Drought1,salinity2,31.89
+Periconia macrospinosa,Drought1,salinity3,27.98
+Periconia macrospinosa,Drought2,salinity1,34.77
+Periconia macrospinosa,Drought2,salinity2,30.62
+Periconia macrospinosa,Drought2,salinity3,25.39
+Periconia macrospinosa,Drought3,salinity1,28.45
+Periconia macrospinosa,Drought3,salinity2,24.76
+Periconia macrospinosa,Drought3,salinity3,19.43
+Periconia macrospinosa,Drought4,salinity1,22.96
+Periconia macrospinosa,Drought4,salinity2,18.41
+Periconia macrospinosa,Drought4,salinity3,13.673
+Control,Drought1,salinity1,30.51
+Control,Drought1,salinity2,24.8
+Control,Drought1,salinity3,19.81
+Control,Drought2,salinity1,25.71
+Control,Drought2,salinity2,20.63
+Control,Drought2,salinity3,14.85
+Control,Drought3,salinity1,20.27
+Control,Drought3,salinity2,15.59
+Control,Drought3,salinity3,9.06
+Control,Drought4,salinity1,14.61
+Control,Drought4,salinity2,9.72
+Control,Drought4,salinity3,5.42

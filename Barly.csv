@@ -1,0 +1,145 @@
+R,Host,Drought,Fungi,Salinity,Treatment code,Protein,SOD,CAT,POX,Proline
+1,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity1,PMD1S1,27.013,0.235,0.15795,0.09118,7.623
+2,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity2,PMD1S2,26.146,0.286,0.1834,0.11152,9.821
+3,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity3,PMD1S3,24.756,0.355,0.1879,0.1548,13.108
+4,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity1,NCD1S1,28.246,0.263,0.1578,0.10675,8.514
+5,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity2,NCD1S2,27.659,0.309,0.16125,0.120933333,10.217
+6,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity3,NCD1S3,25.255,0.383,0.1678,0.170833333,15.801
+7,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity1,NGD1S1,27.957,0.253,0.16045,0.1009,8.633
+8,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity2,NGD1S2,26,0.295,0.1678,0.1282,10.524
+9,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity3,NGD1S3,24.01,0.371,0.169575,0.173666667,15.435
+10,Hordeum vulgare,Drought1,Control,salinity1,COD1S1,27.357,0.224,0.1225,0.0615,7.445
+11,Hordeum vulgare,Drought1,Control,salinity2,COD1S2,22.018,0.247,0.14725,0.0928,9.032
+12,Hordeum vulgare,Drought1,Control,salinity3,COD1S3,17.059,0.285,0.1556,0.1228,11.722
+13,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity1,PMD2S1,25.356,0.335,0.20729,0.1882,15.148
+14,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity2,PMD2S2,24.459,0.387,0.2229,0.2055,17.851
+15,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity3,PMD2S3,22.256,0.456,0.23745,0.2418,21.049
+16,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity1,NCD2S1,26.486,0.353,0.1806,0.1522,12.049
+17,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity2,NCD2S2,25.785,0.391,0.19355,0.1704,14.415
+18,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity3,NCD2S3,23.459,0.473,0.20295,0.22141,19.118
+19,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity1,NGD2S1,25.759,0.333,0.18945,0.1575,12.316
+20,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity2,NGD2S2,24.557,0.375,0.1979,0.17513,14.702
+21,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity3,NGD2S3,22.09,0.456,0.2023,0.2254,19.108
+22,Hordeum vulgare,Drought2,Control,salinity1,COD2S1,23.688,0.274,0.1464,0.1176,10.326
+23,Hordeum vulgare,Drought2,Control,salinity2,COD2S2,17.79,0.296,0.16935,0.1429,12.029
+24,Hordeum vulgare,Drought2,Control,salinity3,COD2S3,12.569,0.334,0.17125,0.178533333,14.019
+25,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity1,PMD3S1,22.246,0.485,0.2978,0.2928,22.732
+26,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity2,PMD3S2,21.569,0.535,0.31274,0.3115,27.841
+27,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity3,PMD3S3,19.876,0.605,0.3213725,0.3548,31.336
+28,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity1,NCD3S1,24.788,0.443,0.2729,0.24422,18.326
+29,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity2,NCD3S2,23.986,0.487,0.2771,0.2636,20.841
+30,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity3,NCD3S3,21.456,0.569,0.2935,0.3149,25.158
+31,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity1,NGD3S1,23.987,0.419,0.2799,0.234,18.752
+32,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity2,NGD3S2,22,0.464,0.2889,0.2529,20.346
+33,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity3,NGD3S3,20,0.541,0.29376,0.30596,25.692
+34,Hordeum vulgare,Drought3,Control,salinity1,COD3S1,18.698,0.374,0.2092,0.2195,14.692
+35,Hordeum vulgare,Drought3,Control,salinity2,COD3S2,13.246,0.396,0.226425,0.2418,16.405
+36,Hordeum vulgare,Drought3,Control,salinity3,COD3S3,8.561,0.335,0.238985,0.2723,18.009
+37,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity1,PMD4S1,18.506,0.685,0.3533,0.36198,31.732
+38,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity2,PMD4S2,17.65,0.738,0.3827,0.3827,33.029
+39,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity3,PMD4S3,15.689,0.808,0.3887,0.4225,37.019
+40,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity1,NCD4S1,21.746,0.649,0.31135,0.3513,29.108
+41,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity2,NCD4S2,20.533,0.687,0.33065,0.3714,31.326
+42,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity3,NCD4S3,18.125,0.7664,0.3369,0.4204,36.128
+43,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity1,NGD4S1,20.351,0.619,0.31305,0.3508,30.158
+44,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity2,NGD4S2,19.391,0.668,0.3391,0.376826667,32.148
+45,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity3,NGD4S3,17.173,0.746,0.34075,0.424136,37.643
+46,Hordeum vulgare,Drought4,Control,salinity1,COD4S1,13.228,0.474,0.2427,0.2564,20.247
+47,Hordeum vulgare,Drought4,Control,salinity2,COD4S2,10.907,0.492,0.26645,0.288166667,22.564
+48,Hordeum vulgare,Drought4,Control,salinity3,COD4S3,7.379,0.532,0.2572,0.315266667,24.94
+49,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity1,PMD1S1,27.148065,0.235141,0.1585818,0.09127118,7.69923
+50,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity2,PMD1S2,26.27673,0.2861716,0.1841336,0.11163152,9.91921
+51,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity3,PMD1S3,24.87978,0.355213,0.1886516,0.1549548,13.23908
+52,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity1,NCD1S1,28.38723,0.2631578,0.1584312,0.10685675,8.59914
+53,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity2,NCD1S2,27.797295,0.3091854,0.161895,0.121054266,10.31917
+54,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity3,NCD1S3,25.381275,0.3832298,0.1684712,0.171004166,15.95901
+55,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity1,NGD1S1,28.096785,0.2531518,0.1610918,0.1010009,8.71933
+56,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity2,NGD1S2,26.13,0.295177,0.1684712,0.1283282,10.62924
+57,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity3,NGD1S3,24.13005,0.3712226,0.1702533,0.173840334,15.58935
+58,Hordeum vulgare,Drought1,Control,salinity1,COD1S1,27.493785,0.2241344,0.12299,0.0615615,7.51945
+59,Hordeum vulgare,Drought1,Control,salinity2,COD1S2,22.12809,0.2471482,0.147839,0.0928928,9.12232
+60,Hordeum vulgare,Drought1,Control,salinity3,COD1S3,17.144295,0.285171,0.1562224,0.1229228,11.83922
+61,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity1,PMD2S1,25.48278,0.335201,0.20811916,0.1883882,15.29948
+62,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity2,PMD2S2,24.581295,0.3872322,0.2237916,0.2057055,18.02951
+63,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity3,PMD2S3,22.36728,0.4562736,0.2383998,0.2420418,21.25949
+64,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity1,NCD2S1,26.61843,0.3532118,0.1813224,0.1523522,12.16949
+65,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity2,NCD2S2,25.913925,0.3912346,0.1943242,0.1705704,14.55915
+66,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity3,NCD2S3,23.576295,0.4732838,0.2037618,0.22163141,19.30918
+67,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity1,NGD2S1,25.887795,0.3331998,0.1902078,0.1576575,12.43916
+68,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity2,NGD2S2,24.679785,0.375225,0.1986916,0.17530513,14.84902
+69,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity3,NGD2S3,22.20045,0.4562736,0.2031092,0.2256254,19.29908
+70,Hordeum vulgare,Drought2,Control,salinity1,COD2S1,23.80644,0.2741644,0.1469856,0.1177176,10.42926
+71,Hordeum vulgare,Drought2,Control,salinity2,COD2S2,17.87895,0.2961776,0.1700274,0.1430429,12.14929
+72,Hordeum vulgare,Drought2,Control,salinity3,COD2S3,12.631845,0.3342004,0.171935,0.178711866,14.15919
+73,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity1,PMD3S1,22.35723,0.485291,0.2989912,0.2930928,22.95932
+74,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity2,PMD3S2,21.676845,0.535321,0.31399096,0.3118115,28.11941
+75,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity3,PMD3S3,19.97538,0.605363,0.32265799,0.3551548,31.64936
+76,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity1,NCD3S1,24.91194,0.4432658,0.2739916,0.24446422,18.50926
+77,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity2,NCD3S2,24.10593,0.4872922,0.2782084,0.2638636,21.04941
+78,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity3,NCD3S3,21.56328,0.5693414,0.294674,0.3152149,25.40958
+79,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity1,NGD3S1,24.106935,0.4192514,0.2810196,0.234234,18.93952
+80,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity2,NGD3S2,22.11,0.4642784,0.2900556,0.2531529,20.54946
+81,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity3,NGD3S3,20.1,0.5413246,0.29493504,0.30626596,25.94892
+82,Hordeum vulgare,Drought3,Control,salinity1,COD3S1,18.79149,0.3742244,0.2100368,0.2197195,14.83892
+83,Hordeum vulgare,Drought3,Control,salinity2,COD3S2,13.31223,0.3962376,0.2273307,0.2420418,16.56905
+84,Hordeum vulgare,Drought3,Control,salinity3,COD3S3,8.603805,0.335201,0.23994094,0.2725723,18.18909
+85,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity1,PMD4S1,18.59853,0.685411,0.3547132,0.36234198,32.04932
+86,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity2,PMD4S2,17.73825,0.7384428,0.3842308,0.3830827,33.35929
+87,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity3,PMD4S3,15.767445,0.8084848,0.3902548,0.4229225,37.38919
+88,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity1,NCD4S1,21.85473,0.6493894,0.3125954,0.3516513,29.39908
+89,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity2,NCD4S2,20.635665,0.6874122,0.3319726,0.3717714,31.63926
+90,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity3,NCD4S3,18.215625,0.76685984,0.3382476,0.4208204,36.48928
+91,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity1,NGD4S1,20.452755,0.6193714,0.3143022,0.3511508,30.45958
+92,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity2,NGD4S2,19.487955,0.6684008,0.3404564,0.377203494,32.46948
+93,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity3,NGD4S3,17.258865,0.7464476,0.342113,0.424560136,38.01943
+94,Hordeum vulgare,Drought4,Control,salinity1,COD4S1,13.29414,0.4742844,0.2436708,0.2566564,20.44947
+95,Hordeum vulgare,Drought4,Control,salinity2,COD4S2,10.961535,0.4922952,0.2675158,0.288454834,22.78964
+96,Hordeum vulgare,Drought4,Control,salinity3,COD4S3,7.415895,0.5323192,0.2582288,0.315581934,25.1894
+97,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity1,PMD1S1,26.850922,0.235705,0.1588977,0.09090646,7.584885
+98,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity2,PMD1S2,25.989124,0.286858,0.1845004,0.11118544,9.771895
+99,Hordeum vulgare,Drought1,Periconia macrospinosa,salinity3,PMD1S3,24.607464,0.356065,0.1890274,0.1543356,13.04246
+100,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity1,NCD1S1,28.076524,0.263789,0.1587468,0.10642975,8.47143
+101,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity2,NCD1S2,27.493046,0.309927,0.1622175,0.120570533,10.165915
+102,Hordeum vulgare,Drought1,Neocamarosporium chichastianum,salinity3,NCD1S3,25.10347,0.384149,0.1688068,0.170320833,15.721995
+103,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity1,NGD1S1,27.789258,0.253759,0.1614127,0.1005973,8.589835
+104,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity2,NGD1S2,25.844,0.295885,0.1688068,0.1278154,10.47138
+105,Hordeum vulgare,Drought1,Neocamarosporium goegapense,salinity3,NGD1S3,23.86594,0.372113,0.17059245,0.173145667,15.357825
+106,Hordeum vulgare,Drought1,Control,salinity1,COD1S1,27.192858,0.224672,0.123235,0.0613155,7.407775
+107,Hordeum vulgare,Drought1,Control,salinity2,COD1S2,21.885892,0.247741,0.1481335,0.0925216,8.98684
+108,Hordeum vulgare,Drought1,Control,salinity3,COD1S3,16.956646,0.285855,0.1565336,0.1224316,11.66339
+109,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity1,PMD2S1,25.203864,0.336005,0.20853374,0.1876354,15.07226
+110,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity2,PMD2S2,24.312246,0.388161,0.2242374,0.2048835,17.761745
+111,Hordeum vulgare,Drought2,Periconia macrospinosa,salinity3,PMD2S3,22.122464,0.457368,0.2388747,0.2410746,20.943755
+112,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity1,NCD2S1,26.327084,0.354059,0.1816836,0.1517434,11.988755
+113,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity2,NCD2S2,25.63029,0.392173,0.1947113,0.1698888,14.342925
+114,Hordeum vulgare,Drought2,Neocamarosporium chichastianum,salinity3,NCD2S3,23.318246,0.474419,0.2041677,0.22074577,19.02241
+115,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity1,NGD2S1,25.604446,0.333999,0.1905867,0.1570275,12.25442
+116,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity2,NGD2S2,24.409658,0.376125,0.1990874,0.17460461,14.62849
+117,Hordeum vulgare,Drought2,Neocamarosporium goegapense,salinity3,NGD2S3,21.95746,0.457368,0.2035138,0.2247238,19.01246
+118,Hordeum vulgare,Drought2,Control,salinity1,COD2S1,23.545872,0.274822,0.1472784,0.1172472,10.27437
+119,Hordeum vulgare,Drought2,Control,salinity2,COD2S2,17.68326,0.296888,0.1703661,0.1424713,11.968855
+120,Hordeum vulgare,Drought2,Control,salinity3,COD2S3,12.493586,0.335002,0.1722775,0.177997733,13.948905
+121,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity1,PMD3S1,22.112524,0.486455,0.2995868,0.2919216,22.61834
+122,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity2,PMD3S2,21.439586,0.536605,0.31461644,0.3105655,27.701795
+123,Hordeum vulgare,Drought3,Periconia macrospinosa,salinity3,PMD3S3,19.756744,0.606815,0.323300735,0.3537356,31.17932
+124,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity1,NCD3S1,24.639272,0.444329,0.2745374,0.24348734,18.23437
+125,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity2,NCD3S2,23.842084,0.488461,0.2787626,0.2628092,20.736795
+126,Hordeum vulgare,Drought3,Neocamarosporium chichastianum,salinity3,NCD3S3,21.327264,0.570707,0.295261,0.3139553,25.03221
+127,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity1,NGD3S1,23.843078,0.420257,0.2815794,0.233298,18.65824
+128,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity2,NGD3S2,21.868,0.465392,0.2906334,0.2521413,20.24427
+129,Hordeum vulgare,Drought3,Neocamarosporium goegapense,salinity3,NGD3S3,19.88,0.542623,0.29552256,0.30504212,25.56354
+130,Hordeum vulgare,Drought3,Control,salinity1,COD3S1,18.585812,0.375122,0.2104552,0.2188415,14.61854
+131,Hordeum vulgare,Drought3,Control,salinity2,COD3S2,13.166524,0.397188,0.22778355,0.2410746,16.322975
+132,Hordeum vulgare,Drought3,Control,salinity3,COD3S3,8.509634,0.336005,0.24041891,0.2714831,17.918955
+133,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity1,PMD4S1,18.394964,0.687055,0.3554198,0.36089406,31.57334
+134,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity2,PMD4S2,17.5441,0.740214,0.3849962,0.3815519,32.863855
+135,Hordeum vulgare,Drought4,Periconia macrospinosa,salinity3,PMD4S3,15.594866,0.810424,0.3910322,0.4212325,36.833905
+136,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity1,NCD4S1,21.615524,0.650947,0.3132181,0.3502461,28.96246
+137,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity2,NCD4S2,20.409802,0.689061,0.3326339,0.3702858,31.16937
+138,Hordeum vulgare,Drought4,Neocamarosporium chichastianum,salinity3,NCD4S3,18.01625,0.7686992,0.3389214,0.4191388,35.94736
+139,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity1,NGD4S1,20.228894,0.620857,0.3149283,0.3497476,30.00721
+140,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity2,NGD4S2,19.274654,0.670004,0.3411346,0.375696187,31.98726
+141,Hordeum vulgare,Drought4,Neocamarosporium goegapense,salinity3,NGD4S3,17.069962,0.748238,0.3427945,0.422863592,37.454785
+142,Hordeum vulgare,Drought4,Control,salinity1,COD4S1,13.148632,0.475422,0.2441562,0.2556308,20.145765
+143,Hordeum vulgare,Drought4,Control,salinity2,COD4S2,10.841558,0.493476,0.2680487,0.287302167,22.45118
+144,Hordeum vulgare,Drought4,Control,salinity3,COD4S3,7.334726,0.533596,0.2587432,0.314320867,24.8153

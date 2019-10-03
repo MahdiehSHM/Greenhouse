@@ -1,0 +1,49 @@
+Fungi ,Salinity,Drought ,Value
+Periconia macrospinosa,salinity1,Drought1,0.15795
+Periconia macrospinosa,salinity2,Drought1,0.1834
+Periconia macrospinosa,salinity3,Drought1,0.1879
+Neocamarosporium chichastianum,salinity1,Drought1,0.1578
+Neocamarosporium chichastianum,salinity2,Drought1,0.16125
+Neocamarosporium chichastianum,salinity3,Drought1,0.1678
+Neocamarosporium goegapense,salinity1,Drought1,0.16045
+Neocamarosporium goegapense,salinity2,Drought1,0.1678
+Neocamarosporium goegapense,salinity3,Drought1,0.169575
+Control,salinity1,Drought1,0.1225
+Control,salinity2,Drought1,0.14725
+Control,salinity3,Drought1,0.1556
+Periconia macrospinosa,salinity1,Drought2,0.20729
+Periconia macrospinosa,salinity2,Drought2,0.2229
+Periconia macrospinosa,salinity3,Drought2,0.23745
+Neocamarosporium chichastianum,salinity1,Drought2,0.1806
+Neocamarosporium chichastianum,salinity2,Drought2,0.19355
+Neocamarosporium chichastianum,salinity3,Drought2,0.20295
+Neocamarosporium goegapense,salinity1,Drought2,0.18945
+Neocamarosporium goegapense,salinity2,Drought2,0.1979
+Neocamarosporium goegapense,salinity3,Drought2,0.2023
+Control,salinity1,Drought2,0.1464
+Control,salinity2,Drought2,0.16935
+Control,salinity3,Drought2,0.17125
+Periconia macrospinosa,salinity1,Drought3,0.2978
+Periconia macrospinosa,salinity2,Drought3,0.31274
+Periconia macrospinosa,salinity3,Drought3,0.3213725
+Neocamarosporium chichastianum,salinity1,Drought3,0.2729
+Neocamarosporium chichastianum,salinity2,Drought3,0.2771
+Neocamarosporium chichastianum,salinity3,Drought3,0.2935
+Neocamarosporium goegapense,salinity1,Drought3,0.2799
+Neocamarosporium goegapense,salinity2,Drought3,0.2889
+Neocamarosporium goegapense,salinity3,Drought3,0.29376
+Control,salinity1,Drought3,0.2092
+Control,salinity2,Drought3,0.226425
+Control,salinity3,Drought3,0.238985
+Periconia macrospinosa,salinity1,Drought4,0.3533
+Periconia macrospinosa,salinity2,Drought4,0.3827
+Periconia macrospinosa,salinity3,Drought4,0.3887
+Neocamarosporium chichastianum,salinity1,Drought4,0.31135
+Neocamarosporium chichastianum,salinity2,Drought4,0.33065
+Neocamarosporium chichastianum,salinity3,Drought4,0.3369
+Neocamarosporium goegapense,salinity1,Drought4,0.31305
+Neocamarosporium goegapense,salinity2,Drought4,0.3391
+Neocamarosporium goegapense,salinity3,Drought4,0.34075
+Control,salinity1,Drought4,0.2427
+Control,salinity2,Drought4,0.26645
+Control,salinity3,Drought4,0.2572

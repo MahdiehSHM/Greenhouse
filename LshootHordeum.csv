@@ -1,0 +1,145 @@
+Fungi ,Drought ,Salinity,Value,,,,,
+Neocamarosporium chichastianum,Drought1,salinity1,90.66666667,96,85,91,,96
+Neocamarosporium chichastianum,Drought1,salinity2,88.33333333,94,83,88,,94
+Neocamarosporium chichastianum,Drought1,salinity3,84,85,83,84,,85
+Neocamarosporium chichastianum,Drought2,salinity1,86.66666667,92,82,86,,92
+Neocamarosporium chichastianum,Drought2,salinity2,84,86,82,84,,86
+Neocamarosporium chichastianum,Drought2,salinity3,80.33333333,82,79,80,,82
+Neocamarosporium chichastianum,Drought3,salinity1,79.66666667,81,78,80,,81
+Neocamarosporium chichastianum,Drought3,salinity2,77.33333333,79,75,78,,79
+Neocamarosporium chichastianum,Drought3,salinity3,73.66666667,75,73,73,,75
+Neocamarosporium chichastianum,Drought4,salinity1,69,71,67,69,,71
+Neocamarosporium chichastianum,Drought4,salinity2,67,69,65,67,,69
+Neocamarosporium chichastianum,Drought4,salinity3,63.33333333,65,62,63,,65
+Neocamarosporium goegapense,Drought1,salinity1,88,91,88,85,,85
+Neocamarosporium goegapense,Drought1,salinity2,85.66666667,87,85,85,,83
+Neocamarosporium goegapense,Drought1,salinity3,81.66666667,85,79,81,,83
+Neocamarosporium goegapense,Drought2,salinity1,84.33333333,85,83,85,,82
+Neocamarosporium goegapense,Drought2,salinity2,82,85,80,81,,82
+Neocamarosporium goegapense,Drought2,salinity3,78.33333333,80,76,79,,79
+Neocamarosporium goegapense,Drought3,salinity1,78,79,77,78,,78
+Neocamarosporium goegapense,Drought3,salinity2,76,79,74,75,,75
+Neocamarosporium goegapense,Drought3,salinity3,72.33333333,73,70,74,,73
+Neocamarosporium goegapense,Drought4,salinity1,68,68,66,70,,67
+Neocamarosporium goegapense,Drought4,salinity2,65.66666667,66,65,66,,65
+Neocamarosporium goegapense,Drought4,salinity3,61.66666667,64,59,62,,62
+Periconia macrospinosa,Drought1,salinity1,87.66666667,88,89,86,,91
+Periconia macrospinosa,Drought1,salinity2,84,86,82,84,,88
+Periconia macrospinosa,Drought1,salinity3,79,81,78,78,,84
+Periconia macrospinosa,Drought2,salinity1,82.33333333,84,80,83,,86
+Periconia macrospinosa,Drought2,salinity2,78.33333333,80,77,78,,84
+Periconia macrospinosa,Drought2,salinity3,73.66666667,76,72,73,,80
+Periconia macrospinosa,Drought3,salinity1,73,74,71,74,,80
+Periconia macrospinosa,Drought3,salinity2,69,71,68,68,,78
+Periconia macrospinosa,Drought3,salinity3,62.66666667,64,59,65,,73
+Periconia macrospinosa,Drought4,salinity1,61.66666667,63,60,62,,69
+Periconia macrospinosa,Drought4,salinity2,57,60,55,56,,67
+Periconia macrospinosa,Drought4,salinity3,52.33333333,55,52,50,,63
+Control,Drought1,salinity1,86.33333333,87,87,85,,91
+Control,Drought1,salinity2,79.66666667,82,77,80,,87
+Control,Drought1,salinity3,73,74,72,73,,85
+Control,Drought2,salinity1,71,73,69,71,,85
+Control,Drought2,salinity2,64,66,62,64,,85
+Control,Drought2,salinity3,57.33333333,58,57,57,,80
+Control,Drought3,salinity1,61.66666667,63,61,61,,79
+Control,Drought3,salinity2,54.33333333,56,53,54,,79
+Control,Drought3,salinity3,47.66666667,48,45,50,,73
+Control,Drought4,salinity1,51.33333333,52,51,51,,68
+Control,Drought4,salinity2,44,45,43,44,,66
+Control,Drought4,salinity3,38.33333333,38,39,38,,64
+,,,,,,,,88
+,,,,,,,,85
+,,,,,,,,79
+,,,,,,,,83
+,,,,,,,,80
+,,,,,,,,76
+,,,,,,,,77
+,,,,,,,,74
+,,,,,,,,70
+,,,,,,,,66
+,,,,,,,,65
+,,,,,,,,59
+,,,,,,,,85
+,,,,,,,,85
+,,,,,,,,81
+,,,,,,,,85
+,,,,,,,,81
+,,,,,,,,79
+,,,,,,,,78
+,,,,,,,,75
+,,,,,,,,74
+,,,,,,,,70
+,,,,,,,,66
+,,,,,,,,62
+,,,,,,,,88
+,,,,,,,,86
+,,,,,,,,81
+,,,,,,,,84
+,,,,,,,,80
+,,,,,,,,76
+,,,,,,,,74
+,,,,,,,,71
+,,,,,,,,64
+,,,,,,,,63
+,,,,,,,,60
+,,,,,,,,55
+,,,,,,,,89
+,,,,,,,,82
+,,,,,,,,78
+,,,,,,,,80
+,,,,,,,,77
+,,,,,,,,72
+,,,,,,,,71
+,,,,,,,,68
+,,,,,,,,59
+,,,,,,,,60
+,,,,,,,,55
+,,,,,,,,52
+,,,,,,,,86
+,,,,,,,,84
+,,,,,,,,78
+,,,,,,,,83
+,,,,,,,,78
+,,,,,,,,73
+,,,,,,,,74
+,,,,,,,,68
+,,,,,,,,65
+,,,,,,,,62
+,,,,,,,,56
+,,,,,,,,50
+,,,,,,,,87
+,,,,,,,,82
+,,,,,,,,74
+,,,,,,,,73
+,,,,,,,,66
+,,,,,,,,58
+,,,,,,,,63
+,,,,,,,,56
+,,,,,,,,48
+,,,,,,,,52
+,,,,,,,,45
+,,,,,,,,38
+,,,,,,,,87
+,,,,,,,,77
+,,,,,,,,72
+,,,,,,,,69
+,,,,,,,,62
+,,,,,,,,57
+,,,,,,,,61
+,,,,,,,,53
+,,,,,,,,45
+,,,,,,,,51
+,,,,,,,,43
+,,,,,,,,39
+,,,,,,,,85
+,,,,,,,,80
+,,,,,,,,73
+,,,,,,,,71
+,,,,,,,,64
+,,,,,,,,57
+,,,,,,,,61
+,,,,,,,,54
+,,,,,,,,50
+,,,,,,,,51
+,,,,,,,,44
+,,,,,,,,38

@@ -1,0 +1,145 @@
+R,Host,Fungi,Drought,Salinity,Treatment code,Lshoot,Wshoot,Wdshoot,Lroot,Wroot,Wdroot,S
+NC-D1-S1-1,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity1,NCD1S1,163,146.71,24.37043189,51,53.62,7.509803922,50.9
+NC-D1-S2-2,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity2,NCD1S2,158,142.16,23.61461794,50,51.24,7.176470588,47.6
+NC-D1-S3-3,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity3,NCD1S3,152,135.11,22.44352159,50,47.28,6.621848739,43.9
+NC-D2-S1-4,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity1,NCD2S1,158,142.88,23.73421927,48,50.83,7.119047619,48.3
+NC-D2-S2-5,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity2,NCD2S2,154,137.4,22.82392027,48,48.32,6.767507003,45.6
+NC-D2-S3-6,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity3,NCD2S3,148,128.67,21.37375415,47,44.69,6.259103641,41.7
+NC-D3-S1-7,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity1,NCD3S1,152,130.33,21.64950166,48,45.31,6.345938375,44.6
+NC-D3-S2-8,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity2,NCD3S2,148,128.73,21.38372093,47,43.74,6.12605042,41.8
+NC-D3-S3-9,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity3,NCD3S3,142,118.14,19.62458472,46,39.52,5.535014006,37.9
+NC-D4-S1-10,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity1,NCD4S1,143,116.64,19.37541528,45,39.41,5.519607843,39.1
+NC-D4-S2-11,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity2,NCD4S2,139,113.11,18.78903654,45,37.64,5.271708683,36.4
+NC-D4-S3-12,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity3,NCD4S3,133,105.39,17.50664452,45,33.55,4.698879552,32.9
+NC-D1-S1-13,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity1,NCD1S1,165,146.71,24.37043189,53,55.17,7.726890756,51.2
+NC-D1-S2-14,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity2,NCD1S2,163,143.86,23.89700997,52,53.14,7.442577031,48.1
+NC-D1-S3-15,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity3,NCD1S3,155,135.92,22.57807309,52,50.33,7.049019608,44.5
+NC-D2-S1-16,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity1,NCD2S1,162,142.88,23.73421927,51,52.32,7.327731092,49.9
+NC-D2-S2-17,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity2,NCD2S2,157,138.9,23.0730897,49,50.73,7.105042017,46.5
+NC-D2-S3-18,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity3,NCD2S3,151,128.67,21.37375415,49,46.23,6.474789916,42.9
+NC-D3-S1-19,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity1,NCD3S1,156,132.33,21.98172757,48,47.32,6.62745098,45.6
+NC-D3-S2-20,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity2,NCD3S2,151,126.73,21.05149502,48,45.65,6.393557423,42.5
+NC-D3-S3-21,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity3,NCD3S3,145,120.14,19.95681063,47,41.57,5.822128852,38.7
+NC-D4-S1-22,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity1,NCD4S1,146,117.54,19.52491694,46,40.98,5.739495798,39.3
+NC-D4-S2-23,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity2,NCD4S2,142,115.26,19.1461794,46,39.21,5.491596639,38.6
+NC-D4-S3-24,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity3,NCD4S3,135,106.39,17.67275748,45,35.35,4.950980392,33.6
+NC-D1-S1-25,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity1,NCD1S1,159,145.58,24.18272425,54,51.09,7.155462185,50.1
+NC-D1-S2-26,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity2,NCD1S2,154,139.94,23.24584718,52,49.75,6.967787115,47.2
+NC-D1-S3-27,Solanum lycopersicum,Neocamarosporium chichastianum,Drought1,salinity3,NCD1S3,149,133.77,22.22093023,52,46.28,6.481792717,41.9
+NC-D2-S1-28,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity1,NCD2S1,154,139.58,23.18604651,52,48.26,6.759103641,46.8
+NC-D2-S2-29,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity2,NCD2S2,151,134.57,22.3538206,50,46.16,6.464985994,44.5
+NC-D2-S3-30,Solanum lycopersicum,Neocamarosporium chichastianum,Drought2,salinity3,NCD2S3,145,135.26,22.46843854,49,42.59,5.964985994,38.8
+NC-D3-S1-31,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity1,NCD3S1,148,128.36,21.32225914,47,44.12,6.179271709,42.2
+NC-D3-S2-32,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity2,NCD3S2,145,123.97,20.59302326,48,40.46,5.666666667,39.8
+NC-D3-S3-33,Solanum lycopersicum,Neocamarosporium chichastianum,Drought3,salinity3,NCD3S3,141,116.57,19.36378738,46,37.23,5.214285714,36.5
+NC-D4-S1-34,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity1,NCD4S1,140,115.29,19.15116279,45,37.28,5.221288515,38.9
+NC-D4-S2-35,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity2,NCD4S2,136,112.22,18.64119601,45,35.34,4.949579832,34.9
+NC-D4-S3-36,Solanum lycopersicum,Neocamarosporium chichastianum,Drought4,salinity3,NCD4S3,132,102.89,17.09136213,43,31.19,4.368347339,31.9
+NG-D1-S1-37,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity1,NGD1S1,159,143.91,23.86567164,49,52.93,7.423562412,49.6
+NG-D1-S1-38,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity2,NGD1S2,155,137.16,22.74626866,49,50.81,7.126227209,47.3
+NG-D1-S1-39,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity3,NGD1S3,148,130.93,21.71310116,48,46.85,6.570827489,41.2
+NG-D1-S1-40,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity1,NGD2S1,154,133.79,22.18739635,48,48.69,6.828892006,47.5
+NG-D1-S1-41,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity2,NGD2S2,151,129.12,21.41293532,47,46.01,6.453015428,43.7
+NG-D1-S1-42,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity3,NGD2S3,145,121.78,20.19568823,47,41.11,5.765778401,38.5
+NG-D1-S1-43,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity1,NGD3S1,149,123.36,20.45771144,46,45.61,6.396914446,42.6
+NG-D1-S1-44,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity2,NGD3S2,144,119.51,19.81923715,45,42.95,6.023842917,39.1
+NG-D1-S1-45,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity3,NGD3S3,139,111.27,18.45273632,44,39.15,5.49088359,34.2
+NG-D1-S1-46,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity1,NGD4S1,140,111.27,18.45273632,44,39.57,5.549789621,37.5
+NG-D1-S1-47,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity2,NGD4S2,135,107.46,17.82089552,44,36.2,5.07713885,33.7
+NG-D1-S1-48,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity3,NGD4S3,129,99.08,16.43117745,43,32.12,4.504908836,28.4
+NG-D1-S1-49,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity1,NGD1S1,162,145.91,24.1973466,49,55.3,7.755960729,50.1
+NG-D1-S1-50,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity2,NGD1S2,157,139.74,23.17412935,49,51.98,7.290322581,48.5
+NG-D1-S1-51,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity3,NGD1S3,149,129.36,21.45273632,48,48.13,6.750350631,42.3
+NG-D1-S1-52,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity1,NGD2S1,157,136.21,22.58872305,48,50.66,7.105189341,48.7
+NG-D1-S1-53,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity2,NGD2S2,154,131.37,21.78606965,47,47.31,6.635343619,44.2
+NG-D1-S1-54,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity3,NGD2S3,149,121.37,20.12769486,47,44.9,6.297335203,39.7
+NG-D1-S1-55,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity1,NGD3S1,151,125.94,20.88557214,46,45.96,6.446002805,43.9
+NG-D1-S1-56,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity2,NGD3S2,148,122.52,20.31840796,45,45.59,6.394109397,41.7
+NG-D1-S1-57,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity3,NGD3S3,142,113.31,18.79104478,44,41.23,5.782608696,36.8
+NG-D1-S1-58,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity1,NGD4S1,142,114.28,18.95190713,44,39.93,5.600280505,38.4
+NG-D1-S1-59,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity2,NGD4S2,137,110.54,18.33167496,44,38.34,5.377279102,34.1
+NG-D1-S1-60,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity3,NGD4S3,132,102.36,16.97512438,43,33.9,4.754558205,29.9
+NG-D1-S1-61,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity1,NGD1S1,157,141.23,23.4212272,48,50.39,7.067321178,48.6
+NG-D1-S1-62,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity2,NGD1S2,152,134.99,22.38640133,48,49.21,6.901823282,44.8
+NG-D1-S1-63,Solanum lycopersicum,Neocamarosporium goegapense,Drought1,salinity3,NGD1S3,147,126.91,21.04643449,48,45.03,6.315568022,40.6
+NG-D1-S1-64,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity1,NGD2S1,154,130.29,21.60696517,45,47.27,6.62973352,43.7
+NG-D1-S1-65,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity2,NGD2S2,149,126.68,21.00829187,48,44.59,6.253856942,41.4
+NG-D1-S1-66,Solanum lycopersicum,Neocamarosporium goegapense,Drought2,salinity3,NGD2S3,142,120.78,20.02985075,48,40.24,5.643758766,36.8
+NG-D1-S1-67,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity1,NGD3S1,147,120.67,20.01160862,47,44.31,6.214586255,40.9
+NG-D1-S1-68,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity2,NGD3S2,144,116.23,19.27529022,46,41.94,5.882187938,38.6
+NG-D1-S1-69,Solanum lycopersicum,Neocamarosporium goegapense,Drought3,salinity3,NGD3S3,137,109.22,18.11276949,45,37.79,5.300140252,33.2
+NG-D1-S1-70,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity1,NGD4S1,138,110.18,18.27197347,44,37.14,5.208976157,32.9
+NG-D1-S1-71,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity2,NGD4S2,135,105.34,17.46932007,44,34.37,4.820476858,32.8
+NG-D1-S1-72,Solanum lycopersicum,Neocamarosporium goegapense,Drought4,salinity3,NGD4S3,128,98.48,16.33167496,43,30.61,4.29312763,28.5
+PM-D1-S1-73,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity1,PMD1S1,150,131.61,21.86212625,48,49.91,6.98041958,47.5
+PM-D1-S1-74,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity2,PMD1S2,139,126.49,21.01162791,46,45.94,6.425174825,42.2
+PM-D1-S1-75,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity3,PMD1S3,132,119.93,19.92192691,45,41.14,5.753846154,37.2
+PM-D1-S1-76,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity1,PMD2S1,140,122.7,20.3820598,45,45.85,6.412587413,43.3
+PM-D1-S1-77,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity2,PMD2S2,133,117.16,19.46179402,45,42.19,5.900699301,39.1
+PM-D1-S1-78,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity3,PMD2S3,127,109.11,18.12458472,45,37.01,5.176223776,34.8
+PM-D1-S1-79,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity1,PMD3S1,132,112.9,18.75415282,44,40.12,5.611188811,38.9
+PM-D1-S1-80,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity2,PMD3S2,126,107.38,17.8372093,46,35.93,5.025174825,35.7
+PM-D1-S1-81,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity3,PMD3S3,119,99.76,16.57142857,46,29.34,4.103496503,30.6
+PM-D1-S1-82,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity1,PMD4S1,121,90.44,15.02325581,43,35.09,4.907692308,33.9
+PM-D1-S1-83,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity2,PMD4S2,117,84.26,13.99667774,42,31.69,4.432167832,29.2
+PM-D1-S1-84,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity3,PMD4S3,111,77.11,12.8089701,42,26.12,3.653146853,24.39
+PM-D1-S1-85,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity1,PMD1S1,135,133.61,22.19435216,48,51.63,7.220979021,48.2
+PM-D1-S1-86,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity2,PMD1S2,142,128.38,21.3255814,47,47.92,6.702097902,44.3
+PM-D1-S1-87,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity3,PMD1S3,136,120.33,19.98837209,47,43.21,6.043356643,37.9
+PM-D1-S1-88,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity1,PMD2S1,142,124.7,20.71428571,47,46.11,6.448951049,44.7
+PM-D1-S1-89,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity2,PMD2S2,135,117.41,19.50332226,46,44.23,6.186013986,40.9
+PM-D1-S1-90,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity3,PMD2S3,130,110.51,18.35714286,46,38.9,5.440559441,35.9
+PM-D1-S1-91,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity1,PMD3S1,136,112.9,18.75415282,46,45.1,6.307692308,40.7
+PM-D1-S1-92,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity2,PMD3S2,129,108.11,17.95847176,45,38.25,5.34965035,37.1
+PM-D1-S1-93,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity3,PMD3S3,122,99.93,16.59966777,45,31.67,4.429370629,33.1
+PM-D1-S1-94,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity1,PMD4S1,124,90.44,15.02325581,43,35.95,5.027972028,35.5
+PM-D1-S1-95,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity2,PMD4S2,119,85.89,14.26744186,43,32.97,4.611188811,31.4
+PM-D1-S1-96,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity3,PMD4S3,113,78.93,13.11129568,41,28.24,3.94965035,25.9
+PM-D1-S1-97,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity1,PMD1S1,148,129.21,21.46345515,48,47.21,6.602797203,44.9
+PM-D1-S1-98,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity2,PMD1S2,137,124.23,20.63621262,47,44.57,6.233566434,40.1
+PM-D1-S1-99,Solanum lycopersicum,Periconia macrospinosa,Drought1,salinity3,PMD1S3,129,116.92,19.42192691,47,39.98,5.591608392,36.1
+PM-D1-S1-100,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity1,PMD2S1,137,120.98,20.09634551,47,45.85,6.412587413,41.5
+PM-D1-S1-101,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity2,PMD2S2,134,114.23,18.97508306,47,39.97,5.59020979,36.9
+PM-D1-S1-102,Solanum lycopersicum,Periconia macrospinosa,Drought2,salinity3,PMD2S3,125,106.36,17.66777409,46,35.19,4.921678322,33.1
+PM-D1-S1-103,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity1,PMD3S1,129,109.36,18.16611296,46,38.11,5.33006993,37.7
+PM-D1-S1-104,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity2,PMD3S2,124,105.17,17.47009967,45,34.09,4.767832168,33.3
+PM-D1-S1-105,Solanum lycopersicum,Periconia macrospinosa,Drought3,salinity3,PMD3S3,117,96.35,16.00498339,44,28.08,3.927272727,28.5
+PM-D1-S1-106,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity1,PMD4S1,118,87.21,14.48671096,43,33.91,4.742657343,31.6
+PM-D1-S1-107,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity2,PMD4S2,115,82.35,13.67940199,43,29.54,4.131468531,28.7
+PM-D1-S1-108,Solanum lycopersicum,Periconia macrospinosa,Drought4,salinity3,PMD4S3,108,74.97,12.45348837,43,25.02,3.499300699,23.9
+SCO-D1-S1-109,Solanum lycopersicum,Control,Drought1,salinity1,COD1S1,129,120.33,20.12207358,47,45.16,6.289693593,45.9
+SCO-D1-S2-110,Solanum lycopersicum,Control,Drought1,salinity2,COD1S2,113,112.42,18.7993311,47,39.02,5.43454039,40.8
+SCO-D1-S3-111,Solanum lycopersicum,Control,Drought1,salinity3,COD1S3,99,108.11,18.07859532,46,33.16,4.618384401,33.9
+SCO-D2-S1-112,Solanum lycopersicum,Control,Drought2,salinity1,COD2S1,120,95.16,15.91304348,47,38.29,5.332869081,41.1
+SCO-D2-S2-113,Solanum lycopersicum,Control,Drought2,salinity2,COD2S2,104,87.22,14.58528428,46,32.32,4.501392758,36.3
+SCO-D2-S3-114,Solanum lycopersicum,Control,Drought2,salinity3,COD2S3,90,83.12,13.89966555,45,26.12,3.637883008,28.9
+SCO-D3-S1-115,Solanum lycopersicum,Control,Drought3,salinity1,COD3S1,108,75.4,12.60869565,44,30.04,4.183844011,35
+SCO-D3-S2-116,Solanum lycopersicum,Control,Drought3,salinity2,COD3S2,91,67.61,11.30602007,45,23.08,3.21448468,30.6
+SCO-D3-S3-117,Solanum lycopersicum,Control,Drought3,salinity3,COD3S3,77,63.6,10.63545151,45,17.86,2.487465181,23.3
+SCO-D4-S1-118,Solanum lycopersicum,Control,Drought4,salinity1,COD4S1,90,56.4,9.431438127,43,21.91,3.051532033,25.2
+SCO-D4-S2-119,Solanum lycopersicum,Control,Drought4,salinity2,COD4S2,73,47.12,7.879598662,42,15.15,2.110027855,20.3
+SCO-D4-S3-120,Solanum lycopersicum,Control,Drought4,salinity3,COD4S3,60,45.38,7.588628763,43,12.54,1.746518106,14.3
+SCO-D1-S1-121,Solanum lycopersicum,Control,Drought1,salinity1,COD1S1,133,122.97,20.56354515,47,47.31,6.58913649,46.4
+SCO-D1-S2-122,Solanum lycopersicum,Control,Drought1,salinity2,COD1S2,115,114.17,19.09197324,46,40.68,5.665738162,41.8
+SCO-D1-S3-123,Solanum lycopersicum,Control,Drought1,salinity3,COD1S3,102,109.51,18.31270903,46,35.15,4.895543175,34.7
+SCO-D2-S1-124,Solanum lycopersicum,Control,Drought2,salinity1,COD2S1,123,98.65,16.49665552,47,39.65,5.522284123,42.4
+SCO-D2-S2-125,Solanum lycopersicum,Control,Drought2,salinity2,COD2S2,108,88.36,14.77591973,45,33.89,4.72005571,37.6
+SCO-D2-S3-126,Solanum lycopersicum,Control,Drought2,salinity3,COD2S3,93,84.95,14.20568562,45,26.91,3.747910864,30.7
+SCO-D3-S1-127,Solanum lycopersicum,Control,Drought3,salinity1,COD3S1,110,78.01,13.0451505,46,31.39,4.371866295,37.1
+SCO-D3-S2-128,Solanum lycopersicum,Control,Drought3,salinity2,COD3S2,93,69.28,11.58528428,45,24.95,3.474930362,31.9
+SCO-D3-S3-129,Solanum lycopersicum,Control,Drought3,salinity3,COD3S3,78,65.39,10.93478261,45,19.28,2.685236769,24.7
+SCO-D4-S1-130,Solanum lycopersicum,Control,Drought4,salinity1,COD4S1,91,52.44,8.769230769,43,24.56,3.420612813,26.5
+SCO-D4-S2-131,Solanum lycopersicum,Control,Drought4,salinity2,COD4S2,76,51.29,8.576923077,43,17.64,2.456824513,21.4
+SCO-D4-S3-132,Solanum lycopersicum,Control,Drought4,salinity3,COD4S3,63,45.93,7.680602007,42,13.04,1.816155989,17.2
+SCO-D1-S1-133,Solanum lycopersicum,Control,Drought1,salinity1,COD1S1,125,117.59,19.6638796,48,43.88,6.111420613,43.9
+SCO-D1-S2-134,Solanum lycopersicum,Control,Drought1,salinity2,COD1S2,111,110.34,18.45150502,47,37.19,5.179665738,39.5
+SCO-D1-S3-135,Solanum lycopersicum,Control,Drought1,salinity3,COD1S3,100,107.87,18.03846154,47,31.53,4.391364903,32.8
+SCO-D2-S1-136,Solanum lycopersicum,Control,Drought2,salinity1,COD2S1,117,91.26,15.26086957,48,36.33,5.059888579,40.56
+SCO-D2-S2-137,Solanum lycopersicum,Control,Drought2,salinity2,COD2S2,102,86.35,14.43979933,45,30.97,4.313370474,35.89
+SCO-D2-S3-138,Solanum lycopersicum,Control,Drought2,salinity3,COD2S3,88,81.69,13.66053512,44,25.1,3.495821727,26.5
+SCO-D3-S1-139,Solanum lycopersicum,Control,Drought3,salinity1,COD3S1,105,72.56,12.13377926,45,28.43,3.959610028,34.5
+SCO-D3-S2-140,Solanum lycopersicum,Control,Drought3,salinity2,COD3S2,89,65.89,11.01839465,46,21.92,3.052924791,27.8
+SCO-D3-S3-141,Solanum lycopersicum,Control,Drought3,salinity3,COD3S3,75,63.78,10.66555184,46,16.03,2.232590529,21.6
+SCO-D4-S1-142,Solanum lycopersicum,Control,Drought4,salinity1,COD4S1,88,56.29,9.413043478,42,18.99,2.644846797,24.5
+SCO-D4-S2-143,Solanum lycopersicum,Control,Drought4,salinity2,COD4S2,71,47,7.859531773,42,15.23,2.121169916,20.7
+SCO-D4-S3-144,Solanum lycopersicum,Control,Drought4,salinity3,COD4S3,60,44.88,7.505016722,41,11.01,1.533426184,12.9
